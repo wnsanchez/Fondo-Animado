@@ -88,7 +88,7 @@ body::after {
     width: 200%;
     height: 200vh;
     position: fixed;
-    background-image: radial-gradient(rgba(68, 243, 242, .5) 10%, transparent 20%);
+    background-image: radial-gradient(red 10%, transparent 20%);
     background-size: 0.5px 5px;
     background-repeat: repeat;
     left: -50%;
