@@ -1,2 +1,2 @@
 # Fondo-Animado
-Animación
+Animación con fondo
